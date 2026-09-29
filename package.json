@@ -1,0 +1,6 @@
+{
+  "name": "pokemon-center-tracker",
+  "private": true,
+  "type": "module",
+  "dependencies": { "playwright": "^1.47.0" }
+}
